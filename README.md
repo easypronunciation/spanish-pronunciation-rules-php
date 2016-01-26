@@ -7,6 +7,8 @@ List of supported locales:
 * es_ES (Spain),
 * es_MX (Mexico).
 
+[spanishphonology - a port of the project to Javascript and Java made by Robert Fromont](https://github.com/nzilbb/spanishphonology).
+
 # Sample Usage
 ```PHP
 $ipa = convert_spanish_word_to_phonetic_transcription ("amigo", "es_ES"); // returns "amiɣo"
